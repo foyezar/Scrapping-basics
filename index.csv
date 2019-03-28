@@ -1,0 +1,20 @@
+	Period	short_desc	temp	desc	temp_num	is_night	Time
+0	Overnight	ChanceShowers	Low: 50 °F	Overnight: A 50 percent chance of showers.  Mostly cloudy, with a low around 50. South wind around 9 mph.  New precipitation amounts of less than a tenth of an inch possible. 	50	True	2019-03-28 13:56:18.982859
+1	Thursday	ShowersLikely	High: 59 °F	Thursday: Showers likely.  Mostly cloudy, with a high near 59. South southwest wind 11 to 20 mph, with gusts as high as 25 mph.  Chance of precipitation is 60%. New precipitation amounts between a tenth and quarter of an inch possible. 	59	False	2019-03-28 13:56:18.982859
+2	ThursdayNight	ChanceShowers thenMostly Cloudy	Low: 49 °F	Thursday Night: A 30 percent chance of showers before 11pm.  Mostly cloudy, with a low around 49. West northwest wind 7 to 16 mph, with gusts as high as 21 mph.  New precipitation amounts of less than a tenth of an inch possible. 	49	True	2019-03-28 13:56:18.982859
+3	Friday	Mostly Sunny	High: 61 °F	Friday: Mostly sunny, with a high near 61. West wind 5 to 10 mph increasing to 13 to 18 mph in the afternoon. Winds could gust as high as 23 mph. 	61	False	2019-03-28 13:56:18.982859
+4	FridayNight	Mostly Clear	Low: 48 °F	Friday Night: Mostly clear, with a low around 48. North northwest wind 13 to 18 mph decreasing to 6 to 11 mph after midnight. Winds could gust as high as 23 mph. 	48	True	2019-03-28 13:56:18.982859
+5	Saturday	Mostly Sunny	High: 64 °F	Saturday: Mostly sunny, with a high near 64.	64	False	2019-03-28 13:56:18.982859
+6	SaturdayNight	Partly Cloudy	Low: 50 °F	Saturday Night: Partly cloudy, with a low around 50.	50	True	2019-03-28 13:56:18.982859
+7	Sunday	Mostly Sunny	High: 70 °F	Sunday: Mostly sunny, with a high near 70.	70	False	2019-03-28 13:56:18.982859
+8	SundayNight	Mostly Cloudy	Low: 53 °F	Sunday Night: Mostly cloudy, with a low around 53.	53	True	2019-03-28 13:56:18.982859
+	Period	short_desc	temp	desc	temp_num	is_night	Time
+0	Overnight	ChanceShowers	Low: 50 °F	Overnight: A 50 percent chance of showers.  Mostly cloudy, with a low around 50. South wind around 8 mph.  New precipitation amounts of less than a tenth of an inch possible. 	50	True	2019-03-28 16:10:04.582851
+1	Thursday	ShowersLikely	High: 59 °F	Thursday: Showers likely.  Mostly cloudy, with a high near 59. South southwest wind 11 to 20 mph, with gusts as high as 25 mph.  Chance of precipitation is 60%. New precipitation amounts between a tenth and quarter of an inch possible. 	59	False	2019-03-28 16:10:04.582851
+2	ThursdayNight	ChanceShowers thenMostly Cloudy	Low: 49 °F	Thursday Night: A 30 percent chance of showers before 11pm.  Mostly cloudy, with a low around 49. West northwest wind 7 to 16 mph, with gusts as high as 21 mph.  New precipitation amounts of less than a tenth of an inch possible. 	49	True	2019-03-28 16:10:04.582851
+3	Friday	Mostly Sunny	High: 61 °F	Friday: Mostly sunny, with a high near 61. West wind 5 to 10 mph increasing to 13 to 18 mph in the afternoon. Winds could gust as high as 23 mph. 	61	False	2019-03-28 16:10:04.582851
+4	FridayNight	Mostly Clear	Low: 48 °F	Friday Night: Mostly clear, with a low around 48. North northwest wind 13 to 18 mph decreasing to 6 to 11 mph after midnight. Winds could gust as high as 23 mph. 	48	True	2019-03-28 16:10:04.582851
+5	Saturday	Mostly Sunny	High: 64 °F	Saturday: Mostly sunny, with a high near 64.	64	False	2019-03-28 16:10:04.582851
+6	SaturdayNight	Partly Cloudy	Low: 50 °F	Saturday Night: Partly cloudy, with a low around 50.	50	True	2019-03-28 16:10:04.582851
+7	Sunday	Mostly Sunny	High: 70 °F	Sunday: Mostly sunny, with a high near 70.	70	False	2019-03-28 16:10:04.582851
+8	SundayNight	Mostly Cloudy	Low: 53 °F	Sunday Night: Mostly cloudy, with a low around 53.	53	True	2019-03-28 16:10:04.582851

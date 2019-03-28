@@ -1,0 +1,447 @@
+<div id="ctl00_cphBody_pnlATMContainer" class="grid toogle accordionimagenone">
+  <section class="toggle active">
+    <label
+      ><i class="icon icon-minus"></i><i class="icon icon-plus"></i>
+      <a href="javascript:toggle('disDhaka');"> Dhaka:(1199)</a>
+    </label>
+
+    <div id="disDhaka" style="display: block;" class="group toggle-content">
+      <a href="javascript:toggle('Dhaka-Banani');">
+        <img id="imgDhaka-Banani" src="images/minus.png" />
+        Amin Bazar<label id="lb_Dhaka_Banani">( 3 )</label></a
+      >
+      <div id="Dhaka-Banani" style="display: block;">
+        <table class="displaytbl">
+          <tbody>
+            <tr class="headtitle">
+              <th scope="col">SL No</th>
+              <th scope="col">ATM Name</th>
+              <th scope="col">Address</th>
+            </tr>
+            <tr>
+              <td>1</td>
+              <td>Nagar Konda FT - 1, Savar ATM</td>
+              <td>Vill: Konda, Nayanagar, Nagar Konda, Savar, Dhaka</td>
+            </tr>
+
+            <tr>
+              <td>2</td>
+              <td>Nagar Konda FT - 2, Savar ATM</td>
+              <td>Vill: Konda, Nayanagar, Nagar Konda, Savar, Dhaka</td>
+            </tr>
+
+            <tr>
+              <td>3</td>
+              <td>Nagar Konda FT - 3, Savar ATM</td>
+              <td>Vill: Konda, Nayanagar, Nagar Konda, Savar, Dhaka</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <script>
+        addNumToLabel(4, "lb_Dhaka_Banani");
+      </script>
+
+      <a href="javascript:toggle('Dhaka-Ashkona');">
+        <img id="imgDhaka-Ashkona" src="images/minus.png" />
+        Ashkona<label id="lb_Dhaka-Ashkona">( 7 )</label></a
+      >
+      <div id="Dhaka-Ashkona" style="display: block;">
+        <table class="displaytbl">
+          <tbody>
+            <tr class="headtitle">
+              <th scope="col">SL No</th>
+              <th scope="col">ATM Name</th>
+              <th scope="col">Address</th>
+            </tr>
+
+            <tr>
+              <td>1</td>
+              <td>Kawla Bazar FT - 4 ATM</td>
+              <td>Atiq Complex, Kawla Bazar, Dakkhinkhan, Uttara, Dhaka - 1229</td>
+            </tr>
+
+            <tr>
+              <td>2</td>
+              <td>Kawla Bazar FT - 3 ATM</td>
+              <td>Atiq Complex, Kawla Bazar, Dakkhinkhan, Uttara, Dhaka - 1229</td>
+            </tr>
+
+            <tr>
+              <td>3</td>
+              <td>Haji Camp ATM</td>
+              <td>G - 61, Ahskona (Hazi Camp), Muktijodda Shopping Complex, Uttara, Dhaka</td>
+            </tr>
+
+            <tr>
+              <td>4</td>
+              <td>Ashkona Branch - 1 ATM</td>
+              <td>Bhuiyan Shopping Complex, 301/631, Ashkona, Dakshinkhan, Dhaka</td>
+            </tr>
+
+            <tr>
+              <td>5</td>
+              <td>Ashkona Branch - 2 ATM</td>
+              <td>Bhuiyan Shopping Complex, 301/631, Ashkona, Dakshinkhan, Dhaka</td>
+            </tr>
+
+            <tr>
+              <td>6</td>
+              <td>Kawla Bazar FT - 1 ATM</td>
+              <td>Atiq Complex, Kawla Bazar, Dakkhinkhan, Uttara, Dhaka - 1229</td>
+            </tr>
+
+            <tr>
+              <td>7</td>
+              <td>Kawla Bazar FT - 2 ATM</td>
+              <td>Atiq Complex, Kawla Bazar, Dakkhinkhan, Uttara, Dhaka - 1229</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <script>
+        addNumToLabel(8, "lb_Dhaka-Ashkona");
+      </script>
+    </div>
+  </section>
+
+  <section class="toggle">
+    <label
+      ><i class="icon icon-minus"></i><i class="icon icon-plus"></i>
+      <a href="javascript:toggle('disChittagong');"> Chittagong:(394)</a>
+    </label>
+    <div id="disChittagong" style="display:none" class="group toggle-content">
+      <a href="javascript:toggle('Chittagong-Agrabad');">
+        <img id="imgChittagong-Agrabad" src="images/plus.png" />
+        Agrabad<label id="lb_Chittagong-Agrabad">( 42 )</label></a
+      >
+      <div id="Chittagong-Agrabad" style="display:none;">
+        <table class="displaytbl">
+          <tbody>
+            <tr class="headtitle">
+              <th scope="col">SL No</th>
+              <th scope="col">ATM Name</th>
+              <th scope="col">Address</th>
+            </tr>
+
+            <tr>
+              <td>1</td>
+              <td>AGRABAD BR-1</td>
+              <td>75 Agrabad, Commercial Area, Chittagong â?? 4100</td>
+            </tr>
+
+            <tr>
+              <td>2</td>
+              <td>AGRABAD BR-3</td>
+              <td>75 Agrabad, Commercial Area, Chittagong â?? 4100</td>
+            </tr>
+
+            <tr>
+              <td>3</td>
+              <td>Stand Road - 5, CTG ATM</td>
+              <td>Amin Future Park, 1440/A Stand Road, Barik Building Circle, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>4</td>
+              <td>Fakirhat FT - 2, CTG ATM</td>
+              <td>Kuddus Mansion, Holding No. - 783, Road - 3, Stand Road, Fakirhat, Bandor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>5</td>
+              <td>Fakirhat FT - 3, CTG ATM</td>
+              <td>Kuddus Mansion, Holding No. - 783, Road - 3, Stand Road, Fakirhat, Bandor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>6</td>
+              <td>Fakirhat FT - 4, CTG ATM</td>
+              <td>Kuddus Mansion, Holding No. - 783, Road - 3, Stand Road, Fakirhat, Bandor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>7</td>
+              <td>Tiger Pass - 1, CTG ATM</td>
+              <td>1 No Mama Vagina majar, Tiger Pass, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>8</td>
+              <td>Tiger Pass - 2, CTG ATM</td>
+              <td>1 No Mama Vagina majar, Tiger Pass, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>9</td>
+              <td>Stand Road - 4, CTG ATM</td>
+              <td>Amin Future Park, 1440/A Stand Road, Barik Building Circle, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>10</td>
+              <td>Agrabad Branch - 1 ATM</td>
+              <td>75, Agrabad C/A, Chittagong - 4100</td>
+            </tr>
+
+            <tr>
+              <td>11</td>
+              <td>BSC FT - 1, CTG ATM</td>
+              <td>Bangladesh Shipping Corporation, BSC Bhaban, Saltgola Road, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>12</td>
+              <td>BSC FT - 2, CTG ATM</td>
+              <td>Bangladesh Shipping Corporation, BSC Bhaban, Saltgola Road, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>13</td>
+              <td>BSC FT - 3, CTG ATM</td>
+              <td>Bangladesh Shipping Corporation, BSC Bhaban, Saltgola Road, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>14</td>
+              <td>BSC FT - 4, CTG ATM</td>
+              <td>Bangladesh Shipping Corporation, BSC Bhaban, Saltgola Road, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>15</td>
+              <td>Ispahani Moor, CTG FT - 1 ATM</td>
+              <td>Highway Plaza, 600 CDA Avenue, Chittagong Ispahani Moor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>16</td>
+              <td>Ispahani Moor, CTG FT - 2 ATM</td>
+              <td>Highway Plaza, 600 CDA Avenue, Chittagong Ispahani Moor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>17</td>
+              <td>Ispahani Moor, CTG FT - 3 ATM</td>
+              <td>Highway Plaza, 600 CDA Avenue, Chittagong Ispahani Moor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>18</td>
+              <td>Ispahani Moor, CTG FT - 5 ATM</td>
+              <td>Highway Plaza, 600 CDA Avenue, Chittagong Ispahani Moor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>19</td>
+              <td>Dewan Hat FT - 2, CTG ATM</td>
+              <td>KGN Sima Tower, 258, Dewanhat Moor, Doublemooring, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>20</td>
+              <td>Dewan Hat FT - 3, CTG ATM</td>
+              <td>KGN Sima Tower, 258, Dewanhat Moor, Doublemooring, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>21</td>
+              <td>Dewan Hat FT - 4, CTG ATM</td>
+              <td>KGN Sima Tower, 258, Dewanhat Moor, Doublemooring, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>22</td>
+              <td>Badamtoli CTG FT - 5 ATM</td>
+              <td>191, Sk. Mujib Road, Agrabad, Badamtoli, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>23</td>
+              <td>Stand Road - 1, CTG ATM</td>
+              <td>Amin Future Park, 1440/A Stand Road, Barik Building Circle, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>24</td>
+              <td>Sk. Mujib Road ATM</td>
+              <td>Ayub Trade Center, Sk. Mujib Road, Agrabad C/A, Darik Building Moor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>25</td>
+              <td>Dewan Hat FT - 1, CTG ATM</td>
+              <td>KGN Sima Tower, 258, Dewanhat Moor, Doublemooring, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>26</td>
+              <td>Fakirhat FT - 1, CTG ATM</td>
+              <td>Kuddus Mansion, Holding No. - 783, Road - 3, Stand Road, Fakirhat, Bandor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>27</td>
+              <td>Stand Road - 2, CTG ATM</td>
+              <td>Amin Future Park, 1440/A Stand Road, Barik Building Circle, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>28</td>
+              <td>South Land Center CTG ATM</td>
+              <td>Shop # 5, South Land Center, Agrabad, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>29</td>
+              <td>Ispahani Moor, CTG FT - 4 ATM</td>
+              <td>Highway Plaza, 600 CDA Avenue, Chittagong Ispahani Moor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>30</td>
+              <td>Agrabad Branch - 2 ATM</td>
+              <td>75, Agrabad C/A, Chittagong - 4100</td>
+            </tr>
+
+            <tr>
+              <td>31</td>
+              <td>Ispahani Moor, CTG FT - 6 ATM</td>
+              <td>Highway Plaza, 600 CDA Avenue, Chittagong Ispahani Moor, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>32</td>
+              <td>Stand Road - 3, CTG ATM</td>
+              <td>Amin Future Park, 1440/A Stand Road, Barik Building Circle, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>33</td>
+              <td>Badamtoli CTG FT - 1 ATM</td>
+              <td>191, Sk. Mujib Road, Agrabad, Badamtoli, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>34</td>
+              <td>Badamtoli CTG FT - 2 ATM</td>
+              <td>191, Sk. Mujib Road, Agrabad, Badamtoli, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>35</td>
+              <td>Badamtoli CTG FT - 3 ATM</td>
+              <td>191, Sk. Mujib Road, Agrabad, Badamtoli, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>36</td>
+              <td>Badamtoli CTG FT - 4 ATM</td>
+              <td>191, Sk. Mujib Road, Agrabad, Badamtoli, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>37</td>
+              <td>Dewan Hat FT - 5, CTG ATM</td>
+              <td>KGN Sima Tower, 258 Dewanhat Moor, Doublemooring, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>38</td>
+              <td>Access Road FT-3, CTG ATM</td>
+              <td>City Shopping Complex, Access Road, Baparypara, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>39</td>
+              <td>AGRABAD BR-2</td>
+              <td>75 Agrabad, Commercial Area, Chittagong â?? 4100</td>
+            </tr>
+
+            <tr>
+              <td>40</td>
+              <td>Access Road FT- 1 CTG ATM</td>
+              <td>City Shopping Complex, Access Road, Baparypara, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>41</td>
+              <td>Access Road FT- 2 CTG ATM</td>
+              <td>City Shopping Complex, Access Road, Baparypara, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>42</td>
+              <td>AGRABAD BR-4</td>
+              <td>75 Agrabad, Commercial Area, Chittagong â?? 4100</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <script>
+        addNumToLabel(43, "lb_Chittagong-Agrabad");
+      </script>
+
+      <a href="javascript:toggle('Chittagong-Anowara');">
+        <img id="imgChittagong-Anowara" src="images/plus.png" />
+        Anowara<label id="lb_Chittagong-Anowara">( 7 )</label></a
+      >
+      <div id="Chittagong-Anowara" style="display:none;">
+        <table class="displaytbl">
+          <tbody>
+            <tr class="headtitle">
+              <th scope="col">SL No</th>
+              <th scope="col">ATM Name</th>
+              <th scope="col">Address</th>
+            </tr>
+
+            <tr>
+              <td>1</td>
+              <td>BAF Anowara, CTG - 1 ATM</td>
+              <td>74 No Squadron, Anowara, Bangladesh Air Force, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>2</td>
+              <td>BAF Anowara, CTG - 2 ATM</td>
+              <td>74 No Squadron, Anowara, Bangladesh Air Force, Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>3</td>
+              <td>Anowara FT - 1, CTG ATM</td>
+              <td>Mohsen&nbsp; Aulia Shopping Complex, Anowara Barkal Road, Anowara,Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>4</td>
+              <td>Anowara FT - 2, CTG ATM</td>
+              <td>Mohsen&nbsp; Aulia Shopping Complex, Anowara Barkal Road, Anowara,Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>5</td>
+              <td>Anowara FT - 3, CTG ATM</td>
+              <td>Mohsen&nbsp; Aulia Shopping Complex, Anowara Barkal Road, Anowara,Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>6</td>
+              <td>Anowara FT - 4, CTG ATM</td>
+              <td>Mohsen&nbsp; Aulia Shopping Complex, Anowara Barkal Road, Anowara,Chittagong</td>
+            </tr>
+
+            <tr>
+              <td>7</td>
+              <td>Anowara FT - 5, CTG ATM</td>
+              <td>Mohsen&nbsp; Aulia Shopping Complex, Anowara Barkal Road, Anowara,Chittagong</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <script>
+        addNumToLabel(8, "lb_Chittagong-Anowara");
+      </script>
+    </div>
+  </section>
+</div>
